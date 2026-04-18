@@ -3,7 +3,6 @@
 .env.local
 
 # Virtual Environment
-venv/
 env/
 ENV/
 
@@ -37,8 +36,7 @@ wheels/
 *~
 
 # Large files (if needed)
-*.pdf
-data/
+
 
 # OS
 .DS_Store
